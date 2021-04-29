@@ -10,7 +10,7 @@ Sobre
 
 Conhecimento:
 
--Linguagens: JavaScript, TypeScript HTML, CSS, Java, C++
+-Linguagens: JavaScript, TypeScript, HTML, CSS, Java, C++
 
 Em processo de aprendizado:
 - React e Next
