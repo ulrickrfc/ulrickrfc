@@ -2,7 +2,7 @@
 
 
 ### Sobre
-- Sou estudante de Engenharia de Computação
+- Sou estudante de Engenharia de Computação.
 - No momento estou aprendendo Desenvolvimento Web. Fiz alguns cursos mas agora estou aprendendo novas tecnologias.
 
 
