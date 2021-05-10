@@ -8,7 +8,7 @@
 
 ## Conhecimento:
 
-- Linguagens: JavaScript, TypeScript, Java, C++
-- Outros: HTML, CSS, Node
+- Linguagens: JavaScript, Java, C++
+- Outros: HTML, CSS, Node, TypeScript
 ## Em processo de aprendizado:
 - React e Next
