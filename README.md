@@ -12,4 +12,4 @@
 - Outros: HTML, CSS, Node, TypeScript
 - React 
 ## Em processo de aprendizado:
--Next
+- Next
