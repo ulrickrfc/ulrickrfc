@@ -3,12 +3,13 @@
 
 ### Sobre
 - Sou estudante de Engenharia de Computação.
-- No momento estou aprendendo Desenvolvimento Web. Fiz alguns cursos mas agora estou aprendendo novas tecnologias.
+- Desenvolvedor front end com algum conhecimento em back end.
 
 
 ## Conhecimento:
 
 - Linguagens: JavaScript, Java, C++
 - Outros: HTML, CSS, Node, TypeScript
+- React 
 ## Em processo de aprendizado:
-- React e Next
+-Next
